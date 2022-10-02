@@ -9,7 +9,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("x29.txt",header = None, index_col = 0)
+df = pd.read_csv("x29.txt",header = None, index_col = 0) #chỗ này e sửa thủ công file x28 thành x29 dạng csv
 df.head()
 
 
